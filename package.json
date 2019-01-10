@@ -1,0 +1,33 @@
+{
+  "name": "webgl-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aratramba/webgl-experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aratramba/webgl-experiments/issues"
+  },
+  "homepage": "https://github.com/Aratramba/webgl-experiments#readme",
+  "devDependencies": {
+    "dat.gui": "^0.7.5",
+    "debounce": "^1.2.0",
+    "gl-matrix": "^3.0.0",
+    "interpolation": "^1.0.0",
+    "nice-color-palettes": "^2.0.0",
+    "parceljs": "0.0.1",
+    "randf": "^1.0.0",
+    "sass": "^1.16.0",
+    "stats-js": "^1.0.0"
+  },
+  "dependencies": {
+    "dat": "^13.11.4"
+  }
+}
